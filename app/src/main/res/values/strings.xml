@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Examen</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="names">NOMBRE:</string>
+    <string name="mails">CORREO:</string>
+    <string name="phone">TELÉFONO:</string>
+    <string name="cell">CELULAR:</string>
+    <string name="location">DIRECCIÓN:</string>
+    <string name="country">PAIS:</string>
+    <string name="state">ESTADO:</string>
+    <string name="city">CIUDAD:</string>
+    <string name="loading">Cargando...</string>
+
+</resources>
